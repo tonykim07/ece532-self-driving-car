@@ -8,3 +8,6 @@ In order to open the project, open Vivado 2018.3 and source the tcl script.
 The full project archive is also available as a zip file in case the tcl script does not work
 Ensure you have cloned https://github.com/Digilent/vivado-library and added it to your repo search path since this project uses ips from Digilent's Vivado ip library.
 
+# Demonstration of the project
+Below is a youtuble link for a video demonstration of our project
+[https://youtu.be/XnSOvw2S5GE](https://youtu.be/XnSOvw2S5GE)
