@@ -9,5 +9,5 @@ The full project archive is also available as a zip file in case the tcl script 
 Ensure you have cloned https://github.com/Digilent/vivado-library and added it to your repo search path since this project uses ips from Digilent's Vivado ip library.
 
 # Demonstration of the project
-Below is a youtuble link for a video demonstration of our project
+Below is a youtube link for a video demonstration of our project
 [https://youtu.be/XnSOvw2S5GE](https://youtu.be/XnSOvw2S5GE)
